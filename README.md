@@ -1,5 +1,5 @@
 ### This repository holds the code for the analysis of the single-cell data collected in:
-O'Brown et. al. The secreted neuronal signal Spock1 regulates the blood-brain barrier (2023)
+O'Brown et. al. The secreted neuronal signal Spock1 promotes blood-brain barrier development (2023)
 
 <br>
 
